@@ -1,6 +1,5 @@
 # Credit-Card-analysis-and-Power-bi-dashboard
 
-# 💳 Credit Card Analysis Project
 
 This project focuses on analyzing customer credit card usage patterns to gain insights into customer behavior and recommend the most suitable credit cards. It leverages SQL for data extraction and transformation, and Power BI for building interactive dashboards.
 
